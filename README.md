@@ -5,6 +5,8 @@ A Completely **Free** handy Calculator for trinary operations 📱
 
 A handy **Calculator** for trinary operations, that works on **all devices**. 📱 💻 🖥
 
+You can choose, if you want to calculate with **Balanced Ternary (-,0,+)** or **Trinary (0,1,2)**. 0️⃣1️⃣2️⃣ 
+
 Feel free to use the **Calculator** for teaching Numeral systems as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build this **Calculator** was, because there wasn't a good one on the Web.
@@ -38,3 +40,10 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 The **Calculator** is designed to give responses on every action,
 this is noticeable as an example at the addition of two Trytes,
 while you're typing, an algorithm already calculates every number you type and displays the result.
+
+## The Calculator allows you to ⛓
+
+- calculate with **balanced Ternary (-,0,+)** or **Trinary (0,1,2)** 0️⃣1️⃣2️⃣ 
+- see how Binary Values are stored in Trinary
+- how much **8, 16, 32, 64, 3, 6, 9, 21, 27, 81 Trit** can store, (ex. unsigned **8-Trit** can store values from **(00000000) 0 ... 6561 (22222222)**)
+- see how other numeral systems are working (**ternary**, **quaternary**, **octal**, **hexdecimal**)
