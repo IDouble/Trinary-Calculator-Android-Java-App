@@ -1,4 +1,9 @@
 # 📱 [Trinary Calculator Android Java App](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app) 📱
+
+<h1 align=center>
+<img src="Images/logo-horizontal.png" width=40%>
+</h1>
+
 A Completely **Free** handy Calculator for trinary operations 📱
 
 **Official Google Play Store Download Link** : **[https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app)**
