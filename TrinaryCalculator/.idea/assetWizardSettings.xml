@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="42" />
+                                                <entry key="scalingPercent" value="70" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -35,7 +35,7 @@
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="ffffff" />
-                                      <entry key="foregroundImage" value="C:\Users\Admin\Desktop\Github\Trinary-Calculator-JavaScript\img\favicon-310.png" />
+                                      <entry key="foregroundImage" value="C:\Users\Admin\Desktop\Github\Trinary-Calculator-Android-Java-App\Images\Trinary-Calculator-Logo.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
