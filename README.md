@@ -23,7 +23,7 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 ![Trinary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Trinary-Calculator-Android_1.png)
 ![Trinary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Trinary-Calculator-Android_2.png)
 
-## [💻 Destkop: 🖥](https://ayidouble.github.io/Trinary-Calculator-JavaScript)
+## [💻 Desktop: 🖥](https://ayidouble.github.io/Trinary-Calculator-JavaScript)
 ![Trinary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR](Images/Trinary-Calculator-v1-Image.png)
 
 **[The Trinary Calculator is just a Website](https://ayidouble.github.io/Trinary-Calculator-JavaScript)** that each possible device can access to.</br>
@@ -31,7 +31,7 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 - ***[Smartphone](https://ayidouble.github.io/Trinary-Calculator-JavaScript) (Android/iOS etc.) 📱***
 - ***[Tablet](https://ayidouble.github.io/Trinary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 📱***
 - ***[Laptop](https://ayidouble.github.io/Trinary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 💻***
-- ***[Destkop](https://ayidouble.github.io/Trinary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 🖥***
+- ***[Desktop](https://ayidouble.github.io/Trinary-Calculator-JavaScript) (Chrome, Firefox, Edge, Safari) 🖥***
 
 ## Trinary Operations ➕ ➖ ➗ ✖️
 
