@@ -1,4 +1,5 @@
 # 📱 [Trinary Calculator Android Java App](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app) 📱
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAYIDouble%2FTrinary-Calculator-Android-Java-App&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1 align=center>
 <img src="Images/logo-horizontal.png" width=40%>
