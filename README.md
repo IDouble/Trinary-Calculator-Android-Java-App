@@ -6,8 +6,6 @@
 
 A Completely **Free** handy Calculator for trinary operations 📱
 
-**Official Google Play Store Download Link** : **[https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app)**
-
 A handy **Calculator** for trinary operations, that works on **all devices**. 📱 💻 🖥
 
 You can choose, if you want to calculate with **Balanced Ternary (-,0,+)** or **Trinary (0,1,2)**. 0️⃣1️⃣2️⃣ 
