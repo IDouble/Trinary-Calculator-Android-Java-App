@@ -1,10 +1,12 @@
-# [📱 Trinary Calculator Android Java App 📱](https://ayidouble.github.io/Trinary-Calculator-JavaScript)
+# [📱 Trinary Calculator Android Java App 📱](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app)
 
 <h1 align=center>
 <img src="Images/logo-horizontal.png" width=40%>
 </h1>
 
 A Completely **Free** handy Calculator for trinary operations 📱
+
+**Official Google Play Store Download Link** : **[https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app)**
 
 A handy **Calculator** for trinary operations, that works on **all devices**. 📱 💻 🖥
 
@@ -14,7 +16,7 @@ Feel free to use the **Calculator** for teaching Numeral systems as an example.
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build this **Calculator** was, because there wasn't a good one on the Web.
 
-## [📱 FREE Download Google Play Store: 📱](https://ayidouble.github.io/Trinary-Calculator-JavaScript)
+## [📱 FREE Download Google Play Store: 📱](https://play.google.com/store/apps/details?id=com.trinarycalculator.ayidouble.trinarycalculator.app)
 ![Free Google Play Store Trinary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/Trinary-Calculator-Google-Play.png)
 
 ## [📱 Mobile (Smartphone): 📱](https://ayidouble.github.io/Trinary-Calculator-JavaScript)
